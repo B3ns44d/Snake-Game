@@ -1,8 +1,6 @@
 # Snake Game Build By Using Only Javascript
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-# demo
 
-https://codepen.io/blackGamer/pen/GRgLVdJ
 
 In this github project, we will be creating a Simple Snake game in Javascript!. As it is made in JavaScript it can be run in a browser and works very well even with without any internet connection because their is no CDN Links used behind it, everything is built in by using Core JavaScript, 
   - HTML
@@ -89,3 +87,6 @@ MIT
 
 **Free Software, Hell Yeah!**
 ***Abdessamd Bensaad***
+# demo
+
+https://codepen.io/blackGamer/pen/GRgLVdJ
