@@ -1,6 +1,6 @@
 # Snake Game Build By Using Only Javascript
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-#demo
+# demo
 
 https://codepen.io/blackGamer/pen/GRgLVdJ
 
